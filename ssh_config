@@ -1,4 +1,1 @@
-Host changjus
-	HostName login.engin.umich.edu
-	User changjus
-	Compression yes
+/home/changjus/.ssh/config
